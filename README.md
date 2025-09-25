@@ -60,6 +60,7 @@ OUTPUT
 
 ---
 MANUAL CALCULATIONS
+![WhatsApp Image 2025-09-25 at 09 13 41_056e0c6d](https://github.com/user-attachments/assets/ed53e486-018d-410c-acc6-606a14dd23fe)
 
 ---
 
