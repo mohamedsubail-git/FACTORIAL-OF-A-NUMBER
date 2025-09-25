@@ -54,8 +54,8 @@ END
 ```
 OUTPUT
 
-(Keil output screenshot can be inserted here)
-<img width="1896" height="1122" alt="image" src="https://github.com/user-attachments/assets/7324780a-79de-4a12-b084-9bcd746cae12" />
+<img width="1896" height="1122" alt="fact code" src="https://github.com/user-attachments/assets/a13d38d5-7d2b-4d0c-a8f7-23345b48d044" />
+
 
 
 ---
